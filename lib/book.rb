@@ -21,6 +21,9 @@ class Book
   end 
   def page_count 
     @page_count 
+  end 
+  
+  def 
   end
 
 end 
